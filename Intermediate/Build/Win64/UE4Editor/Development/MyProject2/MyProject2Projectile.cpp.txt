@@ -1,0 +1,11 @@
+E:\Unreal Projects\MyProject2\Intermediate\Build\Win64\UE4Editor\Development\MyProject2\Definitions.MyProject2.h
+E:\Unreal Projects\MyProject2\Source\MyProject2\MyProject2Projectile.h
+E:\Unreal Projects\MyProject2\Intermediate\Build\Win64\UE4Editor\Inc\MyProject2\MyProject2Projectile.generated.h
+C:\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/ProjectileMovementComponent.h
+C:\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/MovementComponent.h
+C:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MovementComponent.generated.h
+C:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ProjectileMovementComponent.generated.h
+C:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/SphereComponent.h
+C:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+C:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+C:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SphereComponent.generated.h

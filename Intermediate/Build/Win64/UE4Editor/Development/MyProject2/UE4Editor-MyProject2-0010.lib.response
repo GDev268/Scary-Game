@@ -1,0 +1,25 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-MyProject2-0010.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Unreal Projects\MyProject2\Intermediate\Build\Win64\MyProject2Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\Unreal Projects\MyProject2\Intermediate\Build\Win64\UE4Editor\Development\MyProject2\Door.cpp.obj"
+"E:\Unreal Projects\MyProject2\Intermediate\Build\Win64\UE4Editor\Development\MyProject2\Item.cpp.obj"
+"E:\Unreal Projects\MyProject2\Intermediate\Build\Win64\UE4Editor\Development\MyProject2\MyProject2.cpp.obj"
+"E:\Unreal Projects\MyProject2\Intermediate\Build\Win64\UE4Editor\Development\MyProject2\MyProject2Character.cpp.obj"
+"E:\Unreal Projects\MyProject2\Intermediate\Build\Win64\UE4Editor\Development\MyProject2\MyProject2GameMode.cpp.obj"
+"E:\Unreal Projects\MyProject2\Intermediate\Build\Win64\UE4Editor\Development\MyProject2\MyProject2HUD.cpp.obj"
+"E:\Unreal Projects\MyProject2\Intermediate\Build\Win64\UE4Editor\Development\MyProject2\MyProject2Projectile.cpp.obj"
+"E:\Unreal Projects\MyProject2\Intermediate\Build\Win64\UE4Editor\Development\MyProject2\Door.gen.cpp.obj"
+"E:\Unreal Projects\MyProject2\Intermediate\Build\Win64\UE4Editor\Development\MyProject2\Item.gen.cpp.obj"
+"E:\Unreal Projects\MyProject2\Intermediate\Build\Win64\UE4Editor\Development\MyProject2\MyProject2.init.gen.cpp.obj"
+"E:\Unreal Projects\MyProject2\Intermediate\Build\Win64\UE4Editor\Development\MyProject2\MyProject2Character.gen.cpp.obj"
+"E:\Unreal Projects\MyProject2\Intermediate\Build\Win64\UE4Editor\Development\MyProject2\MyProject2GameMode.gen.cpp.obj"
+"E:\Unreal Projects\MyProject2\Intermediate\Build\Win64\UE4Editor\Development\MyProject2\MyProject2HUD.gen.cpp.obj"
+"E:\Unreal Projects\MyProject2\Intermediate\Build\Win64\UE4Editor\Development\MyProject2\MyProject2Projectile.gen.cpp.obj"
+"E:\Unreal Projects\MyProject2\Intermediate\Build\Win64\UE4Editor\Development\MyProject2\Default.rc2.res"
+/OUT:"E:\Unreal Projects\MyProject2\Intermediate\Build\Win64\UE4Editor\Development\MyProject2\UE4Editor-MyProject2-0010.lib"
